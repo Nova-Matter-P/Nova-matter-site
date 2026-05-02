@@ -1,0 +1,36 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2026-05-01T03:08:09.980Z",
+  "last_modified_by_me": "2026-05-01T03:08:09.980Z",
+  "content_last_modified": "2026-05-01T03:08:09.980Z",
+  "created": "2026-02-28T16:00:03.648Z",
+  "permissions": [
+    {
+      "id": "anyone",
+      "type": "anyone",
+      "role": "reader",
+      "kind": "drive#permission",
+      "with_link": false,
+      "view": "published"
+    },
+    {
+      "id": "14394422624733306658",
+      "name": "ROZE BOT",
+      "type": "user",
+      "role": "owner",
+      "value": "arnoldw1121@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocLWTO1hL9UHjWLgqOENHWWbBYeX_Cg9egRPRwXkp5CCQ38kjn6U=s64",
+      "email_address": "arnoldw1121@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "Nova Matter",
+  "drive_id": "1imFbqvUGINcEDnsvbMr29bHOHK1ujagm",
+  "mime_type": "application/vnd.google-apps.site",
+  "published_url": "https://sites.google.com/view/nova-matter-19",
+  "download_url": "https://sites.google.com/d/1imFbqvUGINcEDnsvbMr29bHOHK1ujagm/edit?ouid=109851903192137446694"
+}
